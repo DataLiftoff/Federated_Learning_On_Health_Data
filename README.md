@@ -5,7 +5,7 @@ The **smartphones of the people probably carry the most valueable but also priva
 
 By using a **[Federated Learning](https://federated.withgoogle.com/)** approach with PySyft it is possible to **learn from the private data right on the smartphone, with the data never leaving the device**.
 
-A short [YouTube-Video](https://youtu.be/npr8hW_Fb_4) has been created for this project.  
+A short [YouTube-Video](https://youtu.be/VGDNhhhVWCs) has been created for this project.  
 There is also an [Devpost-project](https://devpost.com/software/08_corona_tracking_id_0139_federated_learning_on_health_data).
 
 # Approach
